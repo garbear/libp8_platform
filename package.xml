@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package>
+  <name>libp8_platform</name>
+  <version>1.0.0</version>
+  <description>ROS package providing Pulse-Eight platform support library.</description>
+  <maintainer email="juztamau5@gmail.com">juztamau5</maintainer>
+  <author email="juztamau5@gmail.com">juztamau5</author>
+  <license>MIT</license>
+  <url type="website">https://github.com/juztamau5/libp8_platform</url>
+  <url type="repository">https://github.com/juztamau5/libp8_platform.git</url>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
